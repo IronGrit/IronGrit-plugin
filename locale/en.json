@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Install Guard",
+    "description": "Browse DSH profile snapshots, verify an install, and roll back to a known-good state."
+  }
+}

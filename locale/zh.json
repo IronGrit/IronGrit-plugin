@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "安装守卫",
+    "description": "查看 DSH profile 的历史快照，验证一次安装，回滚到已知良好的状态。"
+  }
+}

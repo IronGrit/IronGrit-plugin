@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-guard-panel
+      name: dsh-guard-panel
+      config: {}
