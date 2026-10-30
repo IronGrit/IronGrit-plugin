@@ -20,7 +20,7 @@ DSH（DeepSeek Harness）侧栏「安装守卫」面板：在界面里**拍快�
 
 ```bash
 # 从 GitHub 仓库安装
-dsh plugin --profile desktop add github:<owner>/dsh-guard-panel
+dsh plugin --profile desktop add github:IronGrit/IronGrit-plugin
 
 # 或从本地目录安装（开发调试用）
 dsh plugin --profile desktop add file:<repo-path>
